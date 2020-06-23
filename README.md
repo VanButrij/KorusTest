@@ -9,4 +9,4 @@
     + Вывод сделан более понятным и читабельным;
     + Исправлены многие синтаксические ошибки.
     
-![Скриншот выполнения программы] (https://github.com/VanButrij/KorusTest/blob/master/image/Screen.png)
+![alt tag](https://github.com/VanButrij/KorusTest/blob/master/image/Screen.png)
