@@ -1,7 +1,3 @@
-// preferences = (perf, volumeCredits) => {
-
-// }
-
 function statement(invoice, plays) {
     let totalAmount = 0;
     debugger;
